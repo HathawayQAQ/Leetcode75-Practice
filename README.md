@@ -3,7 +3,7 @@
 Welcome to my GitHub repository where I document my journey through LeetCode challenges! I've recently embarked on a mission to enhance my problem-solving and coding skills. This repository serves as a living record of my progress, challenges, and learnings as I delve into the world of algorithms and data structures.
 
 ## My Goals ##
-Leetcode75[https://leetcode.com/studyplan/leetcode-75/]
+[Leetcode75](https://leetcode.com/studyplan/leetcode-75/)
 
 ## Repository Structure ##
 Daily Challenges: Solutions to daily problems, organized by date.
