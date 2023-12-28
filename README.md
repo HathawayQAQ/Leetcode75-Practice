@@ -1,4 +1,3 @@
-# Leetcode-Practice
 ## Introduction ##
 Welcome to my GitHub repository where I document my journey through LeetCode challenges! I've recently embarked on a mission to enhance my problem-solving and coding skills. This repository serves as a living record of my progress, challenges, and learnings as I delve into the world of algorithms and data structures.
 
@@ -11,5 +10,6 @@ Topic-wise Organization: Solutions categorized by topics like Data Structures, A
 Personal Notes and Learnings: Insights and learning points from each problem-solving experience.
 
 ## Progress ##
-Start Date: Dec 28, 2023
+Start Date: Dec28 2023
+
 Total Problems Solved: 4/75
