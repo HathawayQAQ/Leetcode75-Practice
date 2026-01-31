@@ -10,6 +10,6 @@ Topic-wise Organization: Solutions categorized by topics like Data Structures, A
 Personal Notes and Learnings: Insights and learning points from each problem-solving experience.
 
 ## Progress ##
-Start Date: Dec28 2023
+Start Date: Dec 28 2023
 
-Total Problems Solved: 17/75
+Total Problems Solved: 23 / 75
