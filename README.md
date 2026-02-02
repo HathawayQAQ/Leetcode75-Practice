@@ -12,4 +12,4 @@ Personal Notes and Learnings: Insights and learning points from each problem-sol
 ## Progress ##
 Start Date: Dec 28 2023
 
-Total Problems Solved: 26 / 75
+Total Problems Solved: 27 / 75
